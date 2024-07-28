@@ -252,6 +252,7 @@ use write::Write;
 
 pub mod escape;
 pub mod num;
+pub mod offset;
 pub mod str;
 pub mod token;
 
